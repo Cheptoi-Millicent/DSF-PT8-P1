@@ -49,11 +49,11 @@ Filling the missing values with any value
 
 # Visualizations 
 
-![output 2](https://github.com/user-attachments/assets/ac0af16f-c64a-4352-97e1-bb7cf2342706)
+![output](https://github.com/user-attachments/assets/4a8ca5af-4713-40e2-ae04-59bde218ba84)
 
-![output 3](https://github.com/user-attachments/assets/8aaabf1b-b650-4f2e-9256-31d0575f2cea)
+![output 2](https://github.com/user-attachments/assets/1cbea1ef-d439-4697-9e92-3f97e1301a3b)
 
-![output](https://github.com/user-attachments/assets/88c71361-b078-4f76-8c11-df4c76cfd3e1)
+![output 3](https://github.com/user-attachments/assets/5b0fe1af-6eff-4650-b435-c6748864f867)
 
 
 
